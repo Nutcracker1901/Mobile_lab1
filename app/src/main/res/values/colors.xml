@@ -9,4 +9,5 @@
     <color name="white">#FFFFFFFF</color>
     <color name="start_clr">#E3562A</color>
     <color name="end_clr">#F29F3F</color>
+    <color name="splash_scr_clr">#3C3A36</color>
 </resources>

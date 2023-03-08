@@ -1,4 +1,5 @@
 <resources>
+
     <style name="wf">
         <item name="android:textSize">
             288sp
@@ -7,7 +8,20 @@
             0
         </item>
         <item name="android:textColor">
-            #FFFFFF
+            @color/white
         </item>
     </style>
+
+    <style name="text">
+        <item name="android:textSize">
+            40sp
+        </item>
+        <item name="android:letterSpacing">
+            -0.03
+        </item>
+        <item name="android:textColor">
+            @color/splash_scr_clr
+        </item>
+    </style>
+
 </resources>
