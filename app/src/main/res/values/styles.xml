@@ -1,0 +1,13 @@
+<resources>
+    <style name="wf">
+        <item name="android:textSize">
+            288sp
+        </item>
+        <item name="android:letterSpacing">
+            0
+        </item>
+        <item name="android:textColor">
+            #FFFFFF
+        </item>
+    </style>
+</resources>
